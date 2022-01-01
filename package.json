@@ -32,6 +32,9 @@
   "bugs": {
     "url": "https://github.com/inspiration33/typescript-backend/issues"
   },
+  "publishConfig": {
+    "@inspiration33:registry": "https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/inspiration33/typescript-backend",
   "devDependencies": {
     "@types/cli": "^0.11.19",
