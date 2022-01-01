@@ -1,5 +1,5 @@
 # Backend
-> 한국어 브랜치: [samchon/backend/tree/korean](https://github.com/inspiration33/typescript-backend/tree/korean)
+> 한국어 브랜치: [samchon/backend/tree/korean](https://github.com/samchon/backend/tree/korean)
 
 ## 1. Outline
 ### 1.1. Introduction
