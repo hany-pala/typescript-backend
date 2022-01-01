@@ -1,19 +1,19 @@
 {
-  "name": "@samchon/${PROJECT}-api",
+  "name": "@sinspiration33/typescript-backend-api",
   "version": "0.0.0",
-  "description": "API for ${PROJECT}",
+  "description": "API for typescript-backend",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/samchon/backend"
+    "url": "https://github.com/inspiration33/typescript-backend"
   },
-  "author": "${AUTHOR}",
+  "author": "hane Han",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/samchon/backend/issues"
+    "url": "https://github.com/inspiration33/typescript-backend/issues"
   },
-  "homepage": "https://github.com/samchon/backend#readme",
+  "homepage": "https://github.com/inspiration33/typescript-backend#readme",
   "dependencies": {
     "node-fetch": "^2.6.1"
   }

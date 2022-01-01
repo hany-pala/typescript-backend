@@ -1,20 +1,20 @@
 {
-  "name": "@${ORGANIZATION}/${PROJECT}-models",
+  "name": "@inspiration33/typescript-backend-models",
   "version": "0.0.0",
-  "description": "${PROJECT} ORM Models",
+  "description": "typescript-backend ORM Models",
   "scripts": {
     "test": "node test"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/samchon/backend"
+    "url": "https://github.com/inspiration33/typescript-backend"
   },
-  "author": "${AUTHOR}",
+  "author": "hane Han",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/samchon/backend/issues"
+    "url": "https://github.com/inspiration33/typescript-backend/issues"
   },
-  "homepage": "https://github.com/samchon/backend#readme",
+  "homepage": "https://github.com/inspiration33/typescript-backend#readme",
   "dependencies": {
     "safe-typeorm": "^1.0.0"
   }

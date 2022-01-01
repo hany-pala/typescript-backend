@@ -65,7 +65,7 @@ export namespace Configuration
 
     export const ASSETS = __dirname + "/../assets";
     export const CREATED_AT: Date = new Date();
-    export const SYSTEM_PASSWORD: string = "https://github.com/samchon";
+    export const SYSTEM_PASSWORD: string = "https://github.com/inspiration33";
 }
 
 // CUSTOM EXCEPTIION CONVERSION
